@@ -1,0 +1,235 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+    margin:-10% -15% -10% -15%;
+    
+}
+
+.mission h1{
+    font-size: 50px;
+    padding-left:2%;
+    line-height:30px;
+    border-left:6px solid tomato ;
+    
+}
+
+.mission p{
+    width:50%;
+    font-size:20px;
+    padding-left:2%;
+    text-align: justify;
+}
+.heading{
+    padding-left: 20%;
+    padding-top: 6%;
+}
+.color1{
+    color: rgb(66, 138, 211);
+}
+.color2{
+    color:rgb(180, 0, 54);
+}
+.color2022{
+    color: darkorange;
+}
+.MissionColor{
+    color: grey;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(0, 204, 255, 0.658),rgb(22, 55, 126));
+    padding:15px 30px;
+    border-radius: 10px;
+    margin-left: 12px;
+    color:white;
+    font-weight: 700;
+    
+}
+
+.mission{
+    padding-top:150px;
+    display:flex;
+    margin: 0 auto;
+    
+      
+}
+
+.mission img{
+    width:50%;
+    margin-top: 2%;
+    
+}
+h2{
+     font-size: 40px;
+     text-align:center;
+ }
+.second-part{
+    display:flex;
+    margin-left:25%;
+    
+}
+.second-part img{
+    width:60%;
+
+}
+
+ .illustration-1{
+
+    background-color: rgb(222, 240, 247);
+    width:20%;
+    height:350px;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+} 
+
+#mission-1{
+    padding-left: 5%;
+}
+.illustration-1 p{
+    width:80%;
+    padding-left:5%;
+    padding-right: 2%;
+    font-size:15px;
+    
+}
+
+.illustration-2{
+
+    background-color: rgb(255, 225, 229);
+    width:20%;
+    height:350px;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+} 
+
+#Vision{
+    padding-left: 5%;
+}
+.illustration-2 p{
+    width:80%;
+    padding-left:5%;
+    padding-right: 2%;
+    font-size:15px;
+    
+}
+.illustration-3{
+
+    background-color: rgb(253, 253, 221);
+    width:20%;
+    height:350px;
+    border-radius: 10px;
+    margin-right: 20px;
+    
+} 
+
+#Goal{
+    padding-left: 5%;
+}
+.illustration-3 p{
+    width:80%;
+    padding-left:5%;
+    padding-right: 2%;
+    font-size:15px;
+    
+}
+.third-part{
+    display:flex;
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 10%;
+    background-position: 23.5%;
+    padding-left:8%;
+    margin-bottom: 5%;
+    
+
+
+
+}
+.third-part img{
+    width:100%;
+    margin-left:90%;
+    
+}
+.third-part h1{
+    font-size: 35px;
+    width: 90%;
+}
+.third-part p{
+    width:180%;
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+} 
+.develop{
+    margin-left:22%;
+    margin-right: 40%;
+    
+}
+.button-2{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(0, 204, 255, 0.658),rgb(22, 55, 126));
+    padding:15px 30px;
+    border-radius: 8px;
+    margin-left: 17px;
+    color:white;
+    font-weight: 700;
+    margin-left:0%;
+    
+}
+.fourth-part{
+    display:flex;
+    background-image: url(image/shape-1.png);
+    background-repeat: no-repeat;
+    background-size:8%;
+    background-position:82%;
+    background-position-y:100%;
+}
+.fourth-part img{
+    width:40%;
+    margin-left:25%;
+    margin-top: -20%;   
+    
+}
+.fourth-part h1{
+    font-size: 40px;
+    width: 140%;
+}
+
+.fourth-part p{
+    width:150%;
+    text-align: justify;
+}
+.community{
+    margin-left:25%;
+    width:30%;
+    margin-top:-10%;
+}
+.footercolor{
+    color: rgb(255, 251, 1);
+}
+footer h1{
+    font-size: 50px;
+    font-family: 'Viga', sans-serif;
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 204, 255, 0.658),rgb(22, 55, 126));
+    width:100%;
+    height:100px;
+    color:white;
+    text-align: center;
+    padding-top: 20px;
+    margin-bottom: 0%;
+
+}
+ footer p{
+    font-family: monospace;
+    letter-spacing: 5px;
+    font-size: 12px;
+    color:#ffffff;
+    width:100%;
+    height:10px;
+    text-align: center;
+    margin-top: -1%;
+    padding-bottom: 4px;
+
+}
